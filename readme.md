@@ -1,6 +1,6 @@
 # Awesome OSes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Awesome operating systems, well known or not!
+> A curated list of operating systems, well known or not!
 
 
 ## Contents
