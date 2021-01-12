@@ -7,6 +7,7 @@
 
 - [Debian-based](#debian-based)
 - [Arch-based](#arch-based)
+- [Proprietary](#proprietary)
 
 
 ## Debian-based
@@ -20,6 +21,11 @@
 
 - [Arch Linux](https://archlinux.org/)
 - [Manjaro](https://manjaro.org)
+
+## Proprietary
+
+- [Windows](https://microsoft.com) 
+- [macOS](https://apple.com/mac)
 
 
 ## Contribute
